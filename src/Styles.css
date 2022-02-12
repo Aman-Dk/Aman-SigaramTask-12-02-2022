@@ -1,0 +1,9 @@
+.row{
+    height: 100vh;
+    padding: 0rem 0.5rem;
+}
+.col-3{
+    height: 25%;
+    background:blue;
+    border: 1px solid black;
+}
